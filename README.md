@@ -1,2 +1,2 @@
 # hpc-examples-slurm
-hpc-examples
+slurm based hpc examples
